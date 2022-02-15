@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aniketmadhurkar
-- 👀 I’m interested in iot,html, css, fultter, 
-- 🌱 I’m currently 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in html, css, javascript,bootstrip,java, django,react j.s. 
+- 📫 How to reach me
+- aniket.madhurkar@gmail.com
 
 <!---
 aniketmadhurkar/aniketmadhurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
