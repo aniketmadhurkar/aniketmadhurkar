@@ -1,10 +1,11 @@
 
 
-[![MasterHead](https://www.google.com/search?q=web+developer+images&tbm=isch&ved=2ahUKEwi6vPfFmPH7AhV4_TgGHb8iCBYQ2-cCegQIABAA&oq=web+developer+ima&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQCBAeMgYIABAIEB46BAgjECc6BAgAEENQpgpYyB1g9yhoAHAAeACAAYsCiAGvCJIBBTAuMS40mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=w5qVY_rOD_j64-EPv8WgsAE&bih=842&biw=1536&rlz=1C1ONGR_enIN1026IN1026)
+
 <h1 align="center">Hi 👋, I'm Aniket Madhurkar</h1>
-<h3 align="center">A passionate full Stack Web developer from India</h3>
-<img align="right" src="https://tenor.com/view/programmer-rounded-edges-gif-26214286" alt="Codeing" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmadhurkar&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmadhurkar" /> </p>
+<h3 align="center">A passionate full Stack Web developer</h3>
+<img align="center" alt="Coding" width="200"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmadhurkar&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmadhurkar"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmadhurkar" alt="aniketmadhurkar" /></a> </p>
 
